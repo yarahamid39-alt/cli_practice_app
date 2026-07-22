@@ -5,3 +5,4 @@
 - GitHub stores Git repositories online.
 - Added an email property to the User class.
 - Added a second string utility function.
+- Practiced selective staging with Git.
